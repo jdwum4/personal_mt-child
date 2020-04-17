@@ -16,3 +16,8 @@ Tags: one-column, two-column, portfolio
 ul, ol {
     margin: 0 0 1.5em -2.5em;
 }
+
+.site-title a {
+    font-size: medium;
+    color: #fff;
+}
